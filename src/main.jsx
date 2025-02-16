@@ -1,6 +1,6 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-import { createHashRouter } from 'react-router-dom';
+import { createBrowserRouter } from 'react-router-dom';
 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import RoleSelection from './pages/RoleSelection';
@@ -40,7 +40,7 @@ const theme = createTheme({
   },
 });
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
     path: "/",
     element: <RoleSelection />,

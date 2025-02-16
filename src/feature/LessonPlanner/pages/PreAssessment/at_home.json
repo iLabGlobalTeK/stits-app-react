@@ -1,0 +1,57 @@
+[
+    {
+        "value": "videos_at_home",
+        "label": "Videos",
+        "helpText": "Assign students to watch a video related to the upcoming lesson before class."
+    },
+    {
+        "value": "slide_presentations",
+        "label": "Slide Presentations",
+        "helpText": "Have students review a slide presentation at home to prepare for the lesson."
+    },
+    {
+        "value": "storytelling_at_home",
+        "label": "Storytelling",
+        "helpText": "Ask students to write or read a story related to the lesson content at home."
+    },
+    {
+        "value": "quizzes_at_home",
+        "label": "Quizzes",
+        "helpText": "Use online quizzes or questionnaires to assess students' prior knowledge before class."
+    },
+    {
+        "value": "journaling_at_home",
+        "label": "Journaling",
+        "helpText": "Have students write in their journals to reflect on their understanding of the upcoming topic."
+    },
+    {
+        "value": "case_studies",
+        "label": "Case Studies",
+        "helpText": "Assign a case study for students to analyze and prepare for discussion in class."
+    },
+    {
+        "value": "brainstorming_at_home",
+        "label": "Brainstorming",
+        "helpText": "Ask students to brainstorm ideas at home and bring them to class."
+    },
+    {
+        "value": "concept_mapping_at_home",
+        "label": "Concept Mapping",
+        "helpText": "Students create concept maps at home to organize their understanding of the topic."
+    },
+    {
+        "value": "webquest",
+        "label": "WebQuest",
+        "helpText": "Assign an online scavenger hunt where students gather information on the topic."
+    },
+    {
+        "value": "problem_solving_at_home",
+        "label": "Problem Solving",
+        "helpText": "Give students problems to solve at home to assess their understanding of the lesson material."
+    },
+    {
+        "value": "discussion_online",
+        "label": "Discussion",
+        "helpText": "Encourage students to participate in online discussions or forums related to the lesson."
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "value": "startling_questions",
+        "label": "Startling or Open-ended Questions",
+        "helpText": "Ask provocative questions at the start of the class to engage students and stimulate discussion."
+    },
+    {
+        "value": "quotes",
+        "label": "Quotes",
+        "helpText": "Present a relevant quote and ask students to interpret or discuss its significance to the lesson."
+    },
+    {
+        "value": "storytelling_in_class",
+        "label": "Storytelling",
+        "helpText": "Engage students by narrating a story related to the lesson content."
+    },
+    {
+        "value": "rhymes",
+        "label": "Rhymes",
+        "helpText": "Use rhymes to introduce new concepts or review existing knowledge in a fun way."
+    },
+    {
+        "value": "analogies",
+        "label": "Analogies",
+        "helpText": "Draw analogies to help students connect new concepts with what they already know."
+    },
+    {
+        "value": "humor_jokes",
+        "label": "Humor/Jokes",
+        "helpText": "Use humor to grab students' attention and make learning more enjoyable."
+    },
+    {
+        "value": "riddles",
+        "label": "Riddles",
+        "helpText": "Present riddles related to the lesson to encourage critical thinking."
+    },
+    {
+        "value": "visual_aids",
+        "label": "Visual Aids",
+        "helpText": "Use pictures, charts, or graphs to assess students' understanding visually."
+    },
+    {
+        "value": "puzzles",
+        "label": "Puzzles",
+        "helpText": "Engage students with puzzles that challenge their understanding of the lesson material."
+    },
+    {
+        "value": "mystery",
+        "label": "Mystery",
+        "helpText": "Create a sense of mystery or suspense to draw students into the lesson."
+    },
+    {
+        "value": "audio",
+        "label": "Audio",
+        "helpText": "Play music, songs, or sounds and ask students to reflect or react to what they hear."
+    },
+    {
+        "value": "games_in_class",
+        "label": "Games",
+        "helpText": "Use classroom games to review and assess students' prior knowledge."
+    },
+    {
+        "value": "demonstrations",
+        "label": "Demonstrations",
+        "helpText": "Perform teacher-led demonstrations to review key concepts with students."
+    },
+    {
+        "value": "role_play_in_class",
+        "label": "Role Play",
+        "helpText": "Have students act out scenarios related to the lesson to assess their understanding."
+    },
+    {
+        "value": "challenge",
+        "label": "Challenge",
+        "helpText": "Issue a challenge to students at the start of the lesson to engage them."
+    },
+    {
+        "value": "props_objects",
+        "label": "Props/Objects",
+        "helpText": "Use tangible items to engage students and assess their prior knowledge."
+    },
+    {
+        "value": "feely_boxes",
+        "label": "Feely Boxes",
+        "helpText": "Use boxes with hidden objects to stimulate curiosity and engage students."
+    },
+    {
+        "value": "brainstorming_in_class",
+        "label": "Brainstorming",
+        "helpText": "Conduct group brainstorming sessions to review or gather ideas."
+    },
+    {
+        "value": "concept_mapping_in_class",
+        "label": "Concept Mapping",
+        "helpText": "Create concept maps together in class to visually organize ideas."
+    },
+    {
+        "value": "surveys_polls",
+        "label": "Surveys/Polls",
+        "helpText": "Use quick surveys or polls to gauge students' understanding at the start of the lesson."
+    },
+    {
+        "value": "puppetry",
+        "label": "Puppetry",
+        "helpText": "Use puppets to introduce or review content in a creative and engaging way."
+    },
+    {
+        "value": "movie_clips",
+        "label": "Movie Clips",
+        "helpText": "Show short movie clips to introduce or reinforce lesson content."
+    },
+    {
+        "value": "movement_dance",
+        "label": "Movement/Dance",
+        "helpText": "Incorporate movement or dance to energize students and prepare them for the lesson."
+    },
+    {
+        "value": "pictures",
+        "label": "Pictures",
+        "helpText": "Use images to prompt discussion or review lesson content."
+    },
+    {
+        "value": "maps",
+        "label": "Maps",
+        "helpText": "Review geographical or concept maps to assess students' understanding."
+    },
+    {
+        "value": "news_clippings",
+        "label": "News/Newspaper Clippings",
+        "helpText": "Discuss relevant news articles or clippings related to the lesson topic."
+    }
+]

@@ -1,6 +1,7 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createHashRouter } from 'react-router-dom';
+
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import RoleSelection from './pages/RoleSelection';
 import TeacherRoute from './pages/TeacherRoute';
@@ -39,9 +40,9 @@ const theme = createTheme({
   },
 });
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
-    path: "/stits-app-react",
+    path: "/",
     element: <RoleSelection />,
   },
   {

@@ -1,9 +1,10 @@
-import { Box, Button, Container, styled, Typography } from "@mui/material";
+import { Box, Button, Container, Grid, styled, Typography } from "@mui/material";
 import AppLogo from "../../components/AppLogo";
 import { Link as RouterLink } from 'react-router-dom'
 
 const MenuButton = styled(Button)(({ theme }) => ({
-    margin: theme.spacing(2),
+    // Reduced margin
+    margin: theme.spacing(1),
     padding: theme.spacing(2),
     backgroundColor: theme.palette.primary.light,
     color: theme.palette.primary.contrastText,
@@ -45,18 +46,29 @@ export default function RoleSelection() {
                 Please select a role to enter the application.
             </SubText>
             <Box mt={4}>
-                <MenuButton component={RouterLink} to="/teacher" variant="contained">
-                    Teacher
-                </MenuButton>
-                <MenuButton component={RouterLink} to="/principal" variant="contained">
-                    Principal
-                </MenuButton>
-                <MenuButton component={RouterLink} to="/" variant="contained">
-                    Subject Head
-                </MenuButton>
-                <MenuButton component={RouterLink} to="/" variant="contained">
-                    Ed. Officer
-                </MenuButton>
+                {/* Reduced spacing prop */}
+                <Grid container justifyContent="center" spacing={1}>
+                    <Grid item>
+                        <MenuButton component={RouterLink} to="/teacher" variant="contained">
+                            Teacher
+                        </MenuButton>
+                    </Grid>
+                    <Grid item>
+                        <MenuButton component={RouterLink} to="/principal" variant="contained">
+                            Principal
+                        </MenuButton>
+                    </Grid>
+                    <Grid item>
+                        <MenuButton component={RouterLink} to="/" variant="contained">
+                            Subject Head
+                        </MenuButton>
+                    </Grid>
+                    <Grid item>
+                        <MenuButton component={RouterLink} to="/" variant="contained">
+                            Ed. Officer
+                        </MenuButton>
+                    </Grid>
+                </Grid>
             </Box>
         </StyledContainer>
     );

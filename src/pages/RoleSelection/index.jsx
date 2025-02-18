@@ -51,6 +51,12 @@ export default function RoleSelection() {
                 <MenuButton component={RouterLink} to="/principal" variant="contained">
                     Principal
                 </MenuButton>
+                <MenuButton component={RouterLink} to="/principal" variant="contained">
+                    Subject Head
+                </MenuButton>
+                <MenuButton component={RouterLink} to="/principal" variant="contained">
+                    Ed. Officer
+                </MenuButton>
             </Box>
         </StyledContainer>
     );
